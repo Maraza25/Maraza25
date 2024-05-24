@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hi, I’m Ahmet Berat Ağırman<br>🌱 I'm currently learning TypeScript
+🙋‍♂️ Hi, I’m Ahmet Berat Ağırman<br>🌱 I'm currently learning Dart
 
 
 ## 🌐 Socials:
